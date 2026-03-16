@@ -5,8 +5,7 @@
 
 - SAP Finance (FI)
 - Controlling (CO)
-- Contract Accounting (CA)
-- Billing innovation revenue management (BRIM)
+- Contract Accounting (CA) / Billing Revenue Innovation Management (BRIM)
 - Vendor invoice management (VIM)
 - Treasury and Risk Management (TRM) 
 
