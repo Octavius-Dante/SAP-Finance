@@ -4,11 +4,15 @@ These accounts relate to the assets and properties of a business, including tang
 **Rule: Debit what comes in, Credit what goes out.** </br>
 Examples: Cash A/c, Land & Building A/c, Machinery A/c, Inventory A/c. 
 
+</br>
+
 ## Personal Account
 These accounts represent specific persons, companies, firms, or organizations with whom the business deals. They track debts, receivables, and payables. 
 
 **Rule: Debit the receiver, Credit the giver.** </br>
 Examples: Ram’s A/c, XYZ Ltd, State Bank of India, Creditors A/c, Debtors A/c. 
+
+</br>
 
 ## Nominal Account
 These accounts are related to expenses, losses, income, and gains. These are temporary accounts that do not exist physically and are zeroed out at the end of the financial year to calculate net profit or loss. 
