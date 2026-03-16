@@ -16,8 +16,9 @@ These accounts are related to expenses, losses, income, and gains. These are tem
 **Rule: Debit all expenses and losses, Credit all incomes and gains.** </br>
 Examples: Salary A/c, Rent Expense A/c, Interest Received A/c, Commission Earned
 
+</br></br>
 
-## Differene Summary 
+## Difference Summary 
 
 <table>
     <tr>
