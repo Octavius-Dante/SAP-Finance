@@ -8,6 +8,7 @@
 - Controlling (CO)
   
 - Contract Accounts Receivable and PayablE (FI-CA)
+  
                    > Billing Revenue Innovation Management (BRIM)
                    > Subscription Order Management (SOM)
                    > Convergent Charging (CC)
