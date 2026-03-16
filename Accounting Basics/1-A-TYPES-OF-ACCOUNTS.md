@@ -56,3 +56,6 @@ Examples: Salary A/c, Rent Expense A/c, Interest Received A/c, Commission Earned
         <td>Salary, Interest</td>
     </tr>
 </table>
+
+
+[Detailed recording of accounting concept learning can be found here](https://www.accountingverse.com/accounting-basics/)
