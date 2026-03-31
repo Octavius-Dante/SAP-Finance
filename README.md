@@ -29,10 +29,10 @@
 
 
 
-### OSINT - linkedin 
+### OSINT - linkedin - PROFILE + ARTICLES + POST 
 
 - [saikiran](https://www.linkedin.com/in/saikiran10x/)
-- 
+- [https://www.linkedin.com/in/suvartha-kumar-g/](https://www.linkedin.com/in/suvartha-kumar-g/)
 
 </br></br>
 
