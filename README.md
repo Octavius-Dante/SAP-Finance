@@ -26,8 +26,9 @@
 
 - [Fico interview questions](https://www.youtube.com/watch?v=TEitoB0U4wc)
 - [Top 10 Common Interview Questions in SAP FICO # GAURAV](https://www.gauravconsulting.com/post/top-10-common-interview-questions-in-sap-s-4hana-fico)
+- [IGM GURU](https://www.igmguru.com/blog/sap-fico-interview-questions)
 
-
+</br>
 
 ### OSINT - linkedin - PROFILE + ARTICLES + POST 
 
