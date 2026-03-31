@@ -28,6 +28,12 @@
 - 
 
 
+
+### OSINT - linkedin 
+
+- [saikiran](https://www.linkedin.com/in/saikiran10x/)
+- 
+
 </br></br>
 
 <p align="center"> 
