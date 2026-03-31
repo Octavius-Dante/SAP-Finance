@@ -21,11 +21,11 @@
 </br>
 
 
-### Interview questions 
+### Interview questions - youtube and webpages
 
 
 - [Fico interview questions](https://www.youtube.com/watch?v=TEitoB0U4wc)
-- 
+- [Top 10 Common Interview Questions in SAP FICO # GAURAV](https://www.gauravconsulting.com/post/top-10-common-interview-questions-in-sap-s-4hana-fico)
 
 
 
