@@ -19,3 +19,21 @@
 - Treasury and Risk Management (TRM) 
 
 </br>
+
+
+### Interview questions 
+
+
+- [Fico interview questions](https://www.youtube.com/watch?v=TEitoB0U4wc)
+- 
+
+
+</br></br>
+
+<p align="center"> 
+<a href="https://github.com/Octavius-Dante/SAP_INDEX"> Go To SAP INDEX</a>
+</p>
+
+##
+
+</br></br></br>
