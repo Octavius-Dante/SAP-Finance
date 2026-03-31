@@ -28,6 +28,7 @@
 - [Top 10 Common Interview Questions in SAP FICO # GAURAV](https://www.gauravconsulting.com/post/top-10-common-interview-questions-in-sap-s-4hana-fico)
 - [IGM GURU](https://www.igmguru.com/blog/sap-fico-interview-questions)
 - [some Q in indeed article](https://www.indeed.com/career-advice/interviewing/sap-fico-interview-questions)
+- [Linkedin search](https://www.linkedin.com/search/results/all/?keywords=fico%20interview%20questions%20&origin=GLOBAL_SEARCH_HEADER)
 
 </br>
 
