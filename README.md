@@ -21,6 +21,14 @@
 </br>
 
 
+### Detailed Learning plan only UDEMY materila 
+
+</br>
+
+- [SAP FINANCE FICO - UDEMY Training material list](https://github.com/Octavius-Dante/Sephra-Proxima-CPKC/tree/main/SAP_FICO)
+
+</br>
+
 ### Interview questions - youtube and webpages
 
 
