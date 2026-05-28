@@ -25,7 +25,7 @@
 
 </br>
 
-### Detailed Learning plan only UDEMY materila 
+### Detailed Learning plan only UDEMY material 
 
 </br>
 
