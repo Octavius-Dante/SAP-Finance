@@ -6,7 +6,13 @@
 - SAP Finance (FI)
   
 - Controlling (CO)
-  
+    
+- Treasury and Risk Management (TRM) 
+
+</br>
+
+## Not part of FICO 
+
 - Contract Accounts Receivable and PayablE (FI-CA)
   
       > Billing Revenue Innovation Management (BRIM)
@@ -15,11 +21,9 @@
       > Convergent Invoicing (CI)
   
 - Vendor invoice management (VIM)
-  
-- Treasury and Risk Management (TRM) 
+
 
 </br>
-
 
 ### Detailed Learning plan only UDEMY materila 
 
