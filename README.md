@@ -13,7 +13,7 @@
 
 ## Not part of FICO 
 
-- Contract Accounts Receivable and PayablE (FI-CA)
+- Contract Accounts Receivable and Payable (FI-CA)
   
       > Billing Revenue Innovation Management (BRIM)
       > Subscription Order Management (SOM)
