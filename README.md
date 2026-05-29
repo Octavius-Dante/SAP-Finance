@@ -69,7 +69,7 @@ Total Hours (345)
 - [Rana Mehmood](https://www.udemy.com/user/rana-w-mehmood/)
 - [Relearning Training group](https://www.udemy.com/user/mohammed-rashid-25/)
 
-## Linkedin FICO profiles for reference 
+## Linkedin FICO profiles for reference (list will grow)
 
 - [Bhavyasree Divi](https://www.linkedin.com/in/bhavyasree-divi/)
 - [Emmanuel Asana - Ex-CPKC](https://www.linkedin.com/in/emmanuel-asana-cpa-cga-acca-uk-5a6a853a/)
