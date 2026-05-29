@@ -933,4 +933,20 @@
         <td>Creation of Profit Center Group</td>
         <td>KCH1</td>
     </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Suppress Messages</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Change Message Control for Document Processing</td>
+        <td>OBA5</td>
+    </tr>
+    <tr>
+        <td>Message Control Configuration</td>
+        <td>OBMSG</td>
+    </tr>    
 </table>
