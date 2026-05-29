@@ -95,6 +95,8 @@ Total Hours (345)
 -- 2 hours a day 10 hours weekdays + 8+8 (16 hours on weekend) = 26 hours per week = 104 hours per month = 8 months 18 days 
 
 
+-----------------------------------------------------------------------------
+
 ### Interview questions - youtube and webpages
 
 
