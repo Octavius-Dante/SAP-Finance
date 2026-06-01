@@ -1332,12 +1332,12 @@
     </tr>
     <tr>
         <td>162</td>
-        <td></td>
+        <td>Change Message Control</td>
         <td>OBA5</td>
     </tr>
     <tr>
         <td>163</td>
-        <td></td>
+        <td>Configurable Messages</td>
         <td>OBMSG</td>
     </tr>    
 </table>
