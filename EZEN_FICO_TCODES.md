@@ -1315,4 +1315,29 @@
         <td>Creation of Profit Center Group</td>
         <td>KCH1</td>
     </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Message Control</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>162</td>
+        <td></td>
+        <td>OBA5</td>
+    </tr>
+    <tr>
+        <td>163</td>
+        <td></td>
+        <td>OBMSG</td>
+    </tr>    
 </table>
