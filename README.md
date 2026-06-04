@@ -71,12 +71,14 @@ Total Hours (345)
 
 ## Linkedin FICO profiles for reference (list will grow)
 
+- [Chirag Thakkar](https://www.linkedin.com/in/chirag-thakkar-sap/)
 - [Bhavyasree Divi](https://www.linkedin.com/in/bhavyasree-divi/)
 - [Emmanuel Asana - Ex-CPKC](https://www.linkedin.com/in/emmanuel-asana-cpa-cga-acca-uk-5a6a853a/)
 - [Srikanth Kannappan - Nissan RNTBCI](https://www.linkedin.com/in/srikanth-kannappan-a8a00415/)
 - [Das Eshna - Ex-Deloitte](https://www.linkedin.com/in/eshna-das-1bb8183b/)
 - [Divya Sahithi - Sierra Digital Houston](https://www.linkedin.com/in/divyasahithi/)
 - [Tsering Palmo Egri](https://www.linkedin.com/in/palmoegri/)
+
 
 ## SAP Certification list as on 25-FEB-2026
 
@@ -112,6 +114,7 @@ Total Hours (345)
 
 - [saikiran](https://www.linkedin.com/in/saikiran10x/)
 - [Suvartha Kumar G](https://www.linkedin.com/in/suvartha-kumar-g/)
+- [Chirag Thakkar](https://www.linkedin.com/in/chirag-thakkar-sap/)
 - [Wouter Van Heddeghem](https://www.linkedin.com/in/woutervanheddeghem/)
 
 </br></br>
