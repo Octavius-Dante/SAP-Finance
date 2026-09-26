@@ -5,6 +5,9 @@
 [11th + 12th Books Tamil Nadu](https://www.tntextbooks.in/p/12th-books.html)
 
 
+
+</br> </br>
+
 In traditional accounting, accounts are classified into three main types—Real, Personal, and Nominal Accounts, each following a specific "Golden Rule" for debit and credit.
 
 
