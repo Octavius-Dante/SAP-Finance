@@ -3,6 +3,8 @@ These accounts relate to the assets and properties of a business, including tang
 
 Real accounts relate to the assets and properties owned by a business. They do not close at the end of the year and carry their balances forward to the next.
 
+</br>
+
 **Rule: Debit what comes in, Credit what goes out.** </br>
 Examples: Cash A/c, Land & Building A/c, Machinery A/c, Inventory A/c. 
 
@@ -20,6 +22,8 @@ These accounts represent specific persons, companies, firms, or organizations wi
 
 Personal accounts relate to individuals, firms, companies, or institutions with whom the business interacts. This includes customers, vendors, capital accounts, and bank accounts.
 
+</br>
+
 **Rule: Debit the receiver, Credit the giver.** </br>
 Examples: Ram’s A/c, XYZ Ltd, State Bank of India, Creditors A/c, Debtors A/c. 
 
@@ -36,6 +40,8 @@ Examples: Ram’s A/c, XYZ Ltd, State Bank of India, Creditors A/c, Debtors A/c.
 These accounts are related to expenses, losses, income, and gains. These are temporary accounts that do not exist physically and are zeroed out at the end of the financial year to calculate net profit or loss. 
 
 Nominal accounts are temporary accounts used to track expenses, losses, incomes, and gains. Their balances are closed at the end of the fiscal year and transferred to the profit and loss statement.
+
+</br>
 
 **Rule: Debit all expenses and losses, Credit all incomes and gains.** </br>
 Examples: Salary A/c, Rent Expense A/c, Interest Received A/c, Commission Earned
